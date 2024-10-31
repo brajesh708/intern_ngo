@@ -12,6 +12,7 @@ const Home = () => {
           <a href="#">Where we work</a>
           <a href="#">What we do</a>
           <a href="#" className="contact-btn">Contact Us</a>
+          
         </div>
       </header>
 
